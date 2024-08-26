@@ -1,6 +1,10 @@
-hello
+00hello
 
  this is updated copy of aaa file
+<<<<<<< HEAD
 
 second branch change
 
+=======
+change in saif branch
+>>>>>>> feature
